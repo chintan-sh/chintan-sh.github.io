@@ -13,7 +13,7 @@ title:            'Chintan Shah'
 name:             'Chintan Shah'
 #tagline:          ''
 description:      'Software Engineer'
-#url:              http://johndoe.github.io/
+#url:              http://chintan-sh.github.io/
 baseurl:
 # blogurl:          /blog/
 
@@ -24,13 +24,12 @@ pdfs:           '/pdf'
 author:
   name:           'Chintan Shah'
   url:            chintan-sh.github.io
-  email:          'johndoe@gmail.com'
+  email:          ''
   github:         'https://github.com/chintan-sh'
   facebook:       ''
-  # twitter:        'https://twitter.com/johndoe'
-  twitter:        ''
+  twitter:        'https://twitter.com/c0defella'
   googleplus:     ''
-  # linkedin:       'https://www.linkedin.com/in/johndoe '
+  linkedin:       'https://www.linkedin.com/in/chintan14/'
 
 paginate:         3
 
