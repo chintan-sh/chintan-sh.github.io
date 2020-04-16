@@ -1,0 +1,45 @@
+# Dependencies
+highlighter:      rouge
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+# Permalinks
+permalink:              /blog/:categories/:title/
+
+# Setup
+title:            'Chintan Shah'
+name:             'Chintan Shah'
+#tagline:          ''
+description:      'Software Engineer'
+#url:              http://johndoe.github.io/
+baseurl:
+# blogurl:          /blog/
+
+# Assets
+images:         '/img'
+pdfs:           '/pdf'
+
+author:
+  name:           'Chintan Shah'
+  url:            chintan-sh.github.io
+  email:          'johndoe@gmail.com'
+  github:         'https://github.com/chintan-sh'
+  facebook:       ''
+  # twitter:        'https://twitter.com/johndoe'
+  twitter:        ''
+  googleplus:     ''
+  # linkedin:       'https://www.linkedin.com/in/johndoe '
+
+paginate:         3
+
+version:          2.1.0
+
+github:
+  repo:           https://github.com/chintan-sh/chintan-sh.github.io
+
+collections:
+  - projects
+  - talks
+
