@@ -72,8 +72,8 @@ function restoreColorChoice() {
         document.body.className = savedColor;
         console.log("Found saved color: ", savedColor);
     } else {
-        document.body.className = "";
-        console.log("No saved color, added empty string");
+        //document.body.className = "";
+        console.log("No saved color, for now.");
     }
 }
 
