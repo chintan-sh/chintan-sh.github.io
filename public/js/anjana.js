@@ -14,9 +14,12 @@ function getNextColorClass() {
 
     var currentClass = document.body.className
     var currentColor = currentClass.slice(-2);
+    console.log("Current color: " + currentColor);
     var currentIndex = colors.indexOf(currentColor); // -1 if no color class
     var nextIndex = (currentIndex == colors.length ? 0 : currentIndex + 1);
+    console.log("Next Index: " + nextIndex);
     var nextColor = colors[nextIndex];
+    console.log("Next color" + nextColor);
     var nextClass;
     if (nextColor) {
         nextClass = themePrefix + nextColor;
