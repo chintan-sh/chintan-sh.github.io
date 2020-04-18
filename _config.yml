@@ -14,9 +14,7 @@ name:             'Chintan Shah'
 #tagline:          ''
 description:      'Software Engineer'
 #url:              http://chintan-sh.github.io/
-# uncomment below line to make blog page default instead of about
-# baseurl:
-baseurl:          '/about'
+baseurl:
 # blogurl:          /blog/
 
 # Assets
